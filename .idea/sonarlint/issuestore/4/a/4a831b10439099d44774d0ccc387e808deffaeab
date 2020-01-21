@@ -1,0 +1,12 @@
+
+usquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦îŠ«ıÿÿÿÿ8œˆáĞû-
+Isquid:S1481
+"+Remove this unused "brojac" local variable.(ÂÒ¢ó8†ñ‹ïû-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¾şÍúÿÿÿÿ8¿°¢úû-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä¢ôt8á˜øû-
+ssquid:UselessImportCheck"CRemove this unused import 'javax.management.monitor.StringMonitor'.(ÅÑ¸™şÿÿÿÿ8Ğš„ğû-
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åë 8Åñîïû-
+Usquid:S1481	"2Remove this unused "players_limit" local variable.(¦îŠ«ıÿÿÿÿ8†ñ‹ïû-
+gsquid:S2583"DChange this condition so that it does not always evaluate to "false"(á¾áéûÿÿÿÿ8üùãúû-
