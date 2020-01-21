@@ -28,5 +28,4 @@ public class Main {
             }
            games.add(new Games(a, b, c));
             System.out.println(games.toString());
-        //override metodu toString uvijek se tako vrsi ispis klasa, i samo sout(player)
     } }}
